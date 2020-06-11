@@ -1,0 +1,6 @@
+c:\users\jonesgid000\documents\visual studio 2017\Projects\CapnJack\CapnJack\bin\Debug\CapnJack.exe.config
+c:\users\jonesgid000\documents\visual studio 2017\Projects\CapnJack\CapnJack\bin\Debug\CapnJack.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\CapnJack\CapnJack\bin\Debug\CapnJack.pdb
+c:\users\jonesgid000\documents\visual studio 2017\Projects\CapnJack\CapnJack\obj\Debug\CapnJack.csprojResolveAssemblyReference.cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\CapnJack\CapnJack\obj\Debug\CapnJack.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\CapnJack\CapnJack\obj\Debug\CapnJack.pdb
